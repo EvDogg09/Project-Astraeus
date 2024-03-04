@@ -1,3 +1,5 @@
-# Project-Astraeus
+![image]()
 
-Coming Soon...
+# Project: Astraeus
+
+Coming soon...
